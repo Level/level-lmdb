@@ -1,7 +1,7 @@
 {
     "name"            : "level-lmdb"
   , "description"     : "Fast & simple storage - a Node.js-style LMDB wrapper (a convenience package bundling LevelUP & LMDB)"
-  , "version"         : "0.1.0"
+  , "version"         : "0.17.0"
   , "contributors"    : [
         "Rod Vagg <r@va.gg> (https://github.com/rvagg)"
       , "John Chesley <john@chesl.es> (https://github.com/chesles/)"
@@ -35,6 +35,9 @@
   , "dependencies"    : {
         "lmdb"            : "~0.1.0"
       , "level-packager"  : "~0.17.0"
+    }
+  , "devDependencies" : {
+        "tape"            : "*"
     }
   , "scripts"         : {
         "test"            : "node ./test.js"
