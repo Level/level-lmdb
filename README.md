@@ -5,6 +5,8 @@ level-lmdb
 
 [![NPM](https://nodei.co/npm/level-lmdb.png)](https://nodei.co/npm/level-lmdb/)
 
+[![Build Status](https://secure.travis-ci.org/Level/level-lmdb.png)](http://travis-ci.org/Level/level-lmdb)
+
 This is a convenience package that bundles the current release of **[LevelUP](https://github.com/rvagg/node-levelup)** and **[LMDB](https://github.com/rvagg/lmdb)** and exposes LevelUP on its export.
 
 Use this package to avoid having to explicitly install LMDB when you want to use LMDB with LevelUP.
