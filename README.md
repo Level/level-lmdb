@@ -1,6 +1,8 @@
 level-lmdb
 ==========
 
+<img alt="LevelDB Logo" height="100" src="http://leveldb.org/img/logo.svg">
+
 **Fast & simple storage - a Node.js-style LMDB wrapper**
 
 [![NPM](https://nodei.co/npm/level-lmdb.png)](https://nodei.co/npm/level-lmdb/)
@@ -48,6 +50,6 @@ See the [CONTRIBUTING.md](https://github.com/Level/level/blob/master/CONTRIBUTIN
 Licence &amp; copyright
 -------------------
 
-Copyright (c) 2012-2013 Rod Vagg contributors (listed above).
+Copyright (c) 2012-2015 Rod Vagg contributors (listed above).
 
 **level-lmdb** is licensed under an MIT +no-false-attribs license. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE file for more details.
