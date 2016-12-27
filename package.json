@@ -22,7 +22,7 @@
   , "main"            : "level-lmdb.js"
   , "dependencies"    : {
         "lmdb"            : "~0.1.0"
-      , "level-packager"  : "~0.17.0"
+      , "level-packager"  : "~1.2.1"
     }
   , "devDependencies" : {
         "tape"            : "*"
