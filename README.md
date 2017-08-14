@@ -1,6 +1,8 @@
 level-lmdb
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Level/level-lmdb.svg)](https://greenkeeper.io/)
+
 **Fast & simple storage - a Node.js-style LMDB wrapper**
 
 [![NPM](https://nodei.co/npm/level-lmdb.png)](https://nodei.co/npm/level-lmdb/)
