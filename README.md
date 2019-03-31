@@ -1,11 +1,10 @@
-level-lmdb
-==========
+# level-lmdb
+
+**This project has been abandoned. There will be no further releases. If you wish to revive `level-lmdb`, please open an issue in [`Level/community`](https://github.com/Level/community) to discuss a way forward. Thank you! :heart:**
+
+---
 
 **Fast & simple storage - a Node.js-style LMDB wrapper**
-
-[![NPM](https://nodei.co/npm/level-lmdb.png)](https://nodei.co/npm/level-lmdb/)
-
-[![Build Status](https://secure.travis-ci.org/Level/level-lmdb.png)](http://travis-ci.org/Level/level-lmdb)
 
 This is a convenience package that bundles the current release of **[LevelUP](https://github.com/rvagg/node-levelup)** and **[LMDB](https://github.com/rvagg/lmdb)** and exposes LevelUP on its export.
 

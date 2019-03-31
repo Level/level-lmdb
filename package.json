@@ -21,11 +21,11 @@
     ]
   , "main"            : "level-lmdb.js"
   , "dependencies"    : {
-        "lmdb"            : "~0.1.0"
-      , "level-packager"  : "~0.17.0"
+        "lmdb"            : "0.1.3"
+      , "level-packager"  : "0.17.0"
     }
   , "devDependencies" : {
-        "tape"            : "*"
+        "tape"            : "4.10.1"
     }
   , "scripts"         : {
         "test"            : "node ./test.js"
